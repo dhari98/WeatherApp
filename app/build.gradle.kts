@@ -1,11 +1,13 @@
 @file:Suppress("DEPRECATION")
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
     id("kotlin-parcelize")
 }
+
 android {
-    namespace = "com.dharidodi.SSS"
+    namespace = "com.dharidodi.weatherapp"
     compileSdk = 36
 
     defaultConfig {
@@ -27,6 +29,7 @@ android {
             )
         }
     }
+
     buildFeatures {
         viewBinding = true
     }
@@ -39,6 +42,7 @@ android {
         jvmTarget = "11"
     }
 }
+
 dependencies {
     // Android Libraries
     implementation(libs.androidx.core.ktx)
@@ -61,6 +65,7 @@ dependencies {
     implementation(libs.retrofit)
     implementation(libs.converter.gson)
     implementation(libs.logging.interceptor)
+
 
 
     // Testing
