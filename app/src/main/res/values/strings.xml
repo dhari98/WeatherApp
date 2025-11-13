@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Weather App</string>
+
+    <!-- 🔍 Search -->
+    <string name="hint_search_city">Search city...</string>
+    <string name="icon_search">🔍</string>
+    <string name="icon_location">📍</string>
+
+
+    <string name="label_current_location">Your current location:</string>
+
+
+    <!-- 🌆 Default City -->
+    <string name="default_city">--</string>
+
+    <!-- 🌦️ Weather Info -->
+    <string name="default_temperature">-- °C</string>
+    <string name="default_humidity">Humidity: --%</string>
+    <string name="default_condition">Condition: --</string>
+    <string name="default_high_low">H/L: -- / --</string>
+
+    <!-- Accessibility -->
+    <string name="content_weather_icon">Weather Icon</string>
+
+
+    <string name="toast_enter_city">Enter city name</string>
+    <string name="toast_failed">Failed: %1$s</string>
+    <string name="toast_no_location">Unable to get location</string>
+    <string name="toast_permission_denied">Location permission denied</string>
+
+    <string name="unknown">Unknown</string>
+
+    <string name="format_temperature">%1$s °C</string>
+    <string name="format_humidity">Humidity: %1$s%%</string>
+    <string name="format_high_low">H/L: %1$s° / %2$s°</string>
+
+    <string name="clear_day">Clear ☀️</string>
+    <string name="clear_night">Clear 🌙</string>
+    <string name="mostly_clear_day">Mostly Clear 🌤️</string>
+    <string name="partly_cloudy_night">Partly Cloudy 🌙</string>
+    <string name="overcast">Overcast ☁️</string>
+    <string name="fog">Fog 🌫️</string>
+    <string name="drizzle">Drizzle 🌦️</string>
+    <string name="snow">Snow 🌨️</string>
+    <string name="showers">Showers 🌧️</string>
+    <string name="thunderstorm">Thunderstorm ⛈️</string>
+
+    <!-- 🌦️ Weather Descriptions in English -->
+    <string name="desc_clear_sky">Clear sky ☀️</string>
+    <string name="desc_mostly_sunny">Mostly sunny 🌤️</string>
+    <string name="desc_partly_cloudy">Partly cloudy 🌥️</string>
+    <string name="desc_cloudy">Cloudy ☁️</string>
+    <string name="desc_fog">Fog or haze 🌫️</string>
+    <string name="desc_light_drizzle">Light drizzle 🌦️</string>
+    <string name="desc_freezing_drizzle">Freezing drizzle ❄️</string>
+    <string name="desc_light_moderate_rain">Light to moderate rain 🌧️</string>
+    <string name="desc_heavy_rain">Heavy rain ⛈️</string>
+    <string name="desc_snowfall">Light to moderate snowfall 🌨️</string>
+    <string name="desc_heavy_snow">Heavy snow ❄️</string>
+    <string name="desc_rain_showers">Rain showers 🌦️</string>
+    <string name="desc_snow_showers">Snow showers 🌨️</string>
+    <string name="desc_thunderstorms">Thunderstorms ⚡</string>
+    <string name="desc_unknown">Unknown weather 🌍</string>
+
+
+
+
+
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اجواء الطقس</string>
+
+    <!-- 🔍 البحث -->
+    <string name="hint_search_city">ابحث عن مدينة...</string>
+    <string name="icon_search">🔍</string>
+    <string name="icon_location">📍</string>
+
+    <string name="label_current_location">موقعك الحالي:</string>
+
+
+
+    <!-- 🌆 المدينة الافتراضية -->
+    <string name="default_city">--</string>
+
+    <!-- 🌦️ معلومات الطقس -->
+    <string name="default_temperature">-- °م</string>
+    <string name="default_humidity">الرطوبة: --%</string>
+    <string name="default_condition">الحالة الجوية: --</string>
+    <string name="default_high_low">العظمى/الصغرى: -- / --</string>
+
+    <!-- إمكانية الوصول -->
+    <string name="content_weather_icon">أيقونة حالة الطقس</string>
+
+    <string name="toast_enter_city">أدخل اسم المدينة</string>
+    <string name="toast_failed">فشل التحديث: %1$s</string>
+    <string name="toast_no_location">تعذر الحصول على الموقع</string>
+    <string name="toast_permission_denied">تم رفض إذن الموقع</string>
+
+    <string name="unknown">غير معروف</string>
+
+    <string name="format_temperature">%1$s °م</string>
+    <string name="format_humidity">الرطوبة: %1$s%%</string>
+    <string name="format_high_low">العظمى/الصغرى: %1$s° / %2$s°</string>
+
+    <string name="clear_day">صحو ☀️</string>
+    <string name="clear_night">صحو 🌙</string>
+    <string name="mostly_clear_day">غائم جزئياً 🌤️</string>
+    <string name="partly_cloudy_night">غائم ليلاً 🌙</string>
+    <string name="overcast">غائم كلياً ☁️</string>
+    <string name="fog">ضباب 🌫️</string>
+    <string name="drizzle">رذاذ مطر 🌦️</string>
+    <string name="snow">ثلوج 🌨️</string>
+    <string name="showers">أمطار 🌧️</string>
+    <string name="thunderstorm">عاصفة رعدية ⛈️</string>
+
+
+    <!-- 🌦️ أوصاف الطقس بالعربية -->
+    <string name="desc_clear_sky">السماء صافية</string>
+    <string name="desc_mostly_sunny">مشمس جزئيًا</string>
+    <string name="desc_partly_cloudy">سحب متفرقة</string>
+    <string name="desc_cloudy">غائم جزئيًا</string>
+    <string name="desc_fog">ضباب أو شبورة</string>
+    <string name="desc_light_drizzle">رذاذ خفيف️</string>
+    <string name="desc_freezing_drizzle">رذاذ متجمد</string>
+    <string name="desc_light_moderate_rain">أمطار خفيفة إلى متوسطة</string>
+    <string name="desc_heavy_rain">أمطار غزيرة</string>
+    <string name="desc_snowfall">ثلوج خفيفة إلى متوسطة</string>
+    <string name="desc_heavy_snow">ثلوج كثيفة</string>
+    <string name="desc_rain_showers">زخات مطر</string>
+    <string name="desc_snow_showers">زخات ثلوج</string>
+    <string name="desc_thunderstorms">عواصف رعدية</string>
+    <string name="desc_unknown">حالة جوية غير معروفة 🌍</string>
+
+
+
+</resources>
