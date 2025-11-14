@@ -1,6 +1,6 @@
 @file:Suppress("PropertyName")
 
-package com.dharidodi.weatherapp
+package com.example.weatherapp
 
 data class Daily(
     val time: List<String>,

@@ -1,4 +1,4 @@
-package com.dharidodi.weatherapp
+package com.example.weatherapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

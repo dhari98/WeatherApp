@@ -1,4 +1,4 @@
-package com.dharidodi.weatherapp
+package com.example.weatherapp
 
 data class GeoResult(
     val name: String,

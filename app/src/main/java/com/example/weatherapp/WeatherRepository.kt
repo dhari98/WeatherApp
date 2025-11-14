@@ -1,4 +1,4 @@
-package com.dharidodi.weatherapp
+package com.example.weatherapp
 
 class WeatherRepository(private val api: WeatherApi) {
 

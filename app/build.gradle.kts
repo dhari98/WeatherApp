@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "com.dharidodi.weatherapp"
+    namespace = "com.example.weatherapp"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.dharidodi.weatherapp"
+        applicationId = "com.example.weatherapp"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
@@ -65,7 +65,6 @@ dependencies {
     implementation(libs.retrofit)
     implementation(libs.converter.gson)
     implementation(libs.logging.interceptor)
-
 
 
     // Testing

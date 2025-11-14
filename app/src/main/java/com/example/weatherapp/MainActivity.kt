@@ -1,9 +1,9 @@
-package com.dharidodi.weatherapp
+package com.example.weatherapp
 
 import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
-import com.dharidodi.weatherapp.databinding.ActivityMainBinding
+import com.example.weatherapp.databinding.ActivityMainBinding
 import android.Manifest
 import android.annotation.SuppressLint
 import android.content.pm.PackageManager
