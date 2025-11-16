@@ -27,7 +27,7 @@ Data Handling: Repository Pattern
 APIs: Weather API + GeoCoding API
 
 📂 Project Structure
-com.dharidodi.weatherapp
+com.example.weatherapp
 │
 ├── City.kt
 ├── Current.kt
